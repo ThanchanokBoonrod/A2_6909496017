@@ -1,0 +1,84 @@
+*{
+    font-style: normal;
+}
+
+body{
+    background-color: rgb(66, 75, 90);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+#page{
+    background-color: white;
+    margin: auto;
+}
+
+header{
+    color: white;
+    font-size: 67px;
+    font-family: "dancing script";
+    padding: 20px;
+    background-image: url(../media/header.jpg)
+    
+}
+
+#myself{
+    display: block;
+    margin: auto;
+    border-radius: 25px;
+    box-shadow: 2px 2px 3px rgb(71, 80, 83);
+    margin-top: 15px;
+    width: 300px;
+
+}
+
+#profile{
+    padding: 5px;
+}
+mark{
+    color: white;
+    background-color: darkslategray;
+    padding: 4px;
+}
+
+h1{
+    font-style: normal;
+    text-align: left;
+    color: darkslategray;
+    border-bottom: 3px solid darkslategray;
+    padding-bottom: 3px
+}
+
+section{
+    padding-left: 20px;
+}
+
+#introduce{
+    border: double darkblue;
+    padding: 19px;
+    margin: 40px; 
+    
+}
+
+li{
+    text-align: left;
+    margin: 25px;
+}
+
+em{
+    font-style: italic;
+}
+
+footer{
+    color: white;
+    font-size: 30px;
+    font-family: "dancing script";
+    padding: 10px;
+    background-image: url(../media/header.jpg)
+}
+
+
+
+
+   
+    
