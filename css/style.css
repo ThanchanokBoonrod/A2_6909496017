@@ -20,34 +20,14 @@ header{
 }
 
 #myself{
-    display: block;
-    margin: auto;
-    border-radius: 25px;
-    box-shadow: 2px 2px 3px rgb(71, 80, 83);
-    margin-top: 15px;
     width: 300px;
-    padding: 5px;
-}
-
-mark{
-    color: white;
-    background-color: darkslategray;
-    padding: 4px;
 }
 
 h1{
     font-style: normal;
-    text-align: left;
     color: darkslategray;
     border-bottom: 3px solid darkslategray;
-    padding-bottom: 3px
 }
-
-section{
-    padding-left: 20px;
-}
-
-
 
 footer{
     color: white;
